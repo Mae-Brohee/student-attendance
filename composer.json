@@ -4,5 +4,8 @@
   },
   "autoload": {
   "files": ["toby/helpers/functions.php"]
+  },
+  "require-dev": {
+    "laravel/pint": "^1.27"
   }
 }
